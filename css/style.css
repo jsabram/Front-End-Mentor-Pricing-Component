@@ -94,6 +94,7 @@ button {
   background-color: #fff;
   border-radius: 50%;
   transition: transform 0.3s;
+  cursor: pointer;
   content: "";
 }
 .price-box .switch .checkbox {
