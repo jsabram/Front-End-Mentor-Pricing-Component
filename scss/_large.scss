@@ -1,0 +1,17 @@
+@media (min-width: 1100px) {
+	.bg-bottom {
+		display: block;
+	}
+
+	.cards {
+		flex-direction: row;
+
+		.card {
+			margin: 0 0.5em;
+
+			&--colored {
+				transform: scale(1.1);
+			}
+		}
+	}
+}
