@@ -190,7 +190,7 @@ button {
 .attribution {
   position: absolute;
   bottom: 0;
-  padding-bottom: 2em;
+  padding: 2em 0;
   font-size: 11px;
   text-align: center;
 }
